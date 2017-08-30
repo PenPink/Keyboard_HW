@@ -1,0 +1,41 @@
+body {
+font: 71%/1.5 Verdana, Sans-Serif;
+background: #F5F5F5;
+}
+#container {
+margin: 50px auto;
+width: 1000px;
+text-align: center;
+}
+
+#write {
+margin: 0 0 15px;
+width: 950px;
+height: 300px;
+font: 1em/1.5 Verdana, Sans-Serif;
+font-size: 20px
+}
+.btn {
+    border: none;
+    color: #000000;
+    padding: 18px 28px;
+    font-size: 40px;
+    cursor: pointer;
+	font: 71%/1.5 Verdana, Sans-Serif;
+}
+.letter {
+    border: none;
+    color: #000000;
+    padding: 18px 28px;
+    font-size: 40px;
+    cursor: pointer;
+	font: 71%/1.5 Verdana, Sans-Serif;
+}
+.btn3{
+	width: 850px;
+	border: none;
+	padding: 22px 42px;
+}
+
+.char{background-color: #F0FFFF;}
+.char:hover {background-color: #99FFFF;}
